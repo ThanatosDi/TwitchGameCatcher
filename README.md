@@ -1,2 +1,2 @@
-# Twitch Game Catcher
+# TwitchGameCatcher
  
